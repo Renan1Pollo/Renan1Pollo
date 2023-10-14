@@ -7,9 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan1Pollo&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
- ![Snake animation](https://github.com/Renan1Pollo/Renan1Pollo/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Renan1Pollo-&repo=Renan1Pollo&theme=react)](https://github.com/Renan1Pollo/Renan1Pollo)
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Renan1Pollo}/count.svg" /></p> 
